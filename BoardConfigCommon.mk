@@ -64,6 +64,7 @@ TARGET_BOOTLOADER_BOARD_NAME := kona
 TARGET_NO_BOOTLOADER := true
 
 # Camera Malloc
+MALLOC_SVELTE := true
 MALLOC_SVELTE_FOR_LIBC32 := true
 
 # Camera - Miui
